@@ -1,2 +1,2 @@
 # hello-world
-simple project to lear how to use git and github
+simple project to learn how to use git and github
